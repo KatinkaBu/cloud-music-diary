@@ -14,7 +14,7 @@ Each entry includes:
 - Song title and Spotify link
 - Optional image (album cover or custom photo)
 
-## 🌁 Architecture Overview
+## 🔭 Architecture Overview
 
 **Frontend**
 - Flask templates (HTML/CSS)
