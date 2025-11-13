@@ -3,7 +3,7 @@
 A simple cloud-based app to track your daily mood and the song that represents your day.  
 Built with Python, Flask and AWS.
 
-## 🌟 Project Idea
+## 🌬️ Project Idea
 
 The Personal Music Diary lets you select a daily mood, add a Spotify track, and store everything in a cloud database.  
 Your entries appear as a simple timeline of dates, moods, and songs.
