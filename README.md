@@ -72,4 +72,4 @@ Development begins November 2025.
 
 Feel free to reach out or follow progress on GitHub.  
 This project is part of my community space: Cat’s Cloud on Discord.
-This text/project suggestion was created by/with Chat GPT. 
+This text/project suggestion was created with Chat GPT. 
