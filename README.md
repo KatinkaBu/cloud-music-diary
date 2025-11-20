@@ -68,7 +68,7 @@ Estimated time: 1–2 weeks (1–2 hours/day)
 This project is part of my ongoing post-internship learning path.  
 Development begins November 2025.
 
-Update: ![First UI Screenshot](docs/screenshots/Cloud-Music-Diary-SS-1.png)
+Update: ![First UI Screenshot](docs/screenshots/Cloud-Music-Diary-SS-1 .png)
 
 ## 🔮 Contact
 
