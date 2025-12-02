@@ -5,17 +5,26 @@
 
 ```
 cloud-music-diary/
+├── LICENSE
+├── README.md
+├── requirements.txt
 ├── app/
-│   ├── init.py
+│   ├── __init__.py
 │   ├── app.py
 │   ├── routes/
+│   │   └── main.py
+│   ├── static/
+│   │   └── style.css
 │   └── templates/
+│       ├── base.html
+│       └── index.html
 ├── docs/
 │   ├── architecture.md
 │   └── screenshots/
-├── tests/
-├── requirements.txt
-└── README.md
+│       ├── Cloud-Music-Diary-SS-1.png
+│       └── Cloud-Music-Diary-SS-2.png
+└── tests/
+    └── test_basic.py
 ```
 
 
