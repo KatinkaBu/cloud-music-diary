@@ -1,10 +1,10 @@
-from flask import Flask, render_template
+from flask import Flask
 
 def create_app():
     app = Flask(__name__)
 
-    @app.route("/")
-    def index():
-        return render_template("index.html")
+    # Blueprints importieren
+    from app.routes.main import main_bp
+    app.register_blueprint(main_bp)
 
     return app
