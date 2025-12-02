@@ -19,7 +19,7 @@ cloud-music-diary/
 ```
 
 
-##Folder Responsibilities
+## Folder Responsibilities
 
 app/
 Flask backend code, application factory, routes (later Blueprints) and view logic.
