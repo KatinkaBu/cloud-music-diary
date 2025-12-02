@@ -98,11 +98,15 @@ Phase 3 (Optional):
 - First minimal UI (“Cloud Music Diary” placeholder) visible in the browser
 - README updated with screenshot and short project status
 - Issues for upcoming steps created
+- Core Flask folder structure completed (routes, templates, static, tests fully initialized) and first route renders successfully in the browser.
 
 
 ## Planned Next Steps
 - Add GitHub labels for workflow organization
-- Set up simple branch flow (main + feature branches)
-- Implement Issue 1: complete project structure and placeholder files
 - Implement Issue 2: base HTML template
 - Implement Issue 3: form for mood + track input
+- Implement Issue 4: local SQLite integration
+- Implement Issue 5: Spotify API (PoC)
+- Create deployment pipeline:  
+  - Deploy version to Google Cloud  
+  - Deploy version to Azure
